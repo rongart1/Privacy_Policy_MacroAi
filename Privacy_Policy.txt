@@ -1,0 +1,67 @@
+
+# Privacy Policy
+
+**Effective Date:** dec 6 2024 
+**Last Updated:** dec 6 2024
+
+MacroAi is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our application MacroAi. By using the App, you agree to the collection and use of information as described in this policy.
+
+---
+
+## 1. Information We Collect
+
+### 1.1 Camera Access
+The App requires access to your device's camera to provide its core functionality, such as:
+- Capturing photos of food for tracking and logging purposes.
+- Scanning food barcodes to retrieve product information.
+
+The App does not store or share your images or videos unless explicitly stated or permitted by you.
+
+### 1.2 Automatically Collected Information
+We may automatically collect certain information when you use the App, including:
+- Device information (e.g., device type, operating system version).
+- Usage data (e.g., app activity and preferences).
+
+---
+
+## 2. How We Use Your Information
+
+We use the information collected to:
+- Enable food tracking and barcode scanning features.
+- Provide and enhance the App's functionality.
+- Respond to user inquiries and feedback.
+
+---
+
+## 3. Sharing Your Information
+
+We do not share your personal information or collected media with third parties unless:
+- Required by law or legal processes.
+- Necessary to protect the rights, safety, and property of our users or others.
+- You provide explicit consent.
+
+---
+
+## 4. Data Security
+
+We take reasonable measures to protect your data from unauthorized access, use, or disclosure. However, no method of electronic storage or transmission is 100% secure, and we cannot guarantee absolute security.
+
+---
+
+## 5. Your Choices
+
+You can control the App's permissions by adjusting your device settings. Disabling camera access may limit certain features of the App.
+
+---
+
+## 6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted within the App or on our website. Your continued use of the App after changes are made indicates your acceptance of the updated policy.
+
+---
+
+## 7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** rongartenbank@gmail.com  
